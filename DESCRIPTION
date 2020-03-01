@@ -4,7 +4,7 @@ Title: mysimplecompendium
 Version: 0.1.0
 Author: Sanjana Gupta
 Maintainer: Sanjana Gupta <sgupta4@uw.edu>
-Description: Simple Package.
+Description: Add and say hello
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
