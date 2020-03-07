@@ -5,7 +5,7 @@
  [![R build status](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/actions)
  <!-- badges: end -->
 
-The goal of mysimplecompendium is to say hello and add numbers.
+The goal of mysimplecompendium is to say hello and add numbers. It also contains documentation, testing and continuous integration.
 
 ## Installation
 
