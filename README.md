@@ -3,7 +3,7 @@
 
 <!-- badges: start -->
  [![R build status](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/actions)
- [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjanagupta16/DATA-598-WI20-week-7/tests/master?urlpath=rstudio)
+ [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benmarwick/tests/master?urlpath=rstudio)
  <!-- badges: end -->
 
 The goal of mysimplecompendium is to say hello and add numbers. It also contains documentation, testing and continuous integration.
