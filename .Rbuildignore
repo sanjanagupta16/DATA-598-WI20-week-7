@@ -1,7 +1,11 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^devhistory\.R$
 ^LICENSE\.md$
-^\.travis\.yml$
 ^CODE_OF_CONDUCT\.md$
+^\.github/workflows/R-CMD-check\.yaml$
+^\.travis\.yml$
+^\.circleci$
+^\.circleci/config\.yml$
 ^Dockerfile$
 ^\.binder$
