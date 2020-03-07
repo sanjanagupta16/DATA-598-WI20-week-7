@@ -18,4 +18,7 @@ You can install the released version of mysimplecompendium from [CRAN](https://C
 
 This is a basic example which shows you how to solve a common problem:
 
+```library(tests)
+## basic example code ```
+
 
