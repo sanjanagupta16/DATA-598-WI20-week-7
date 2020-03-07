@@ -4,7 +4,7 @@ Title: mysimplecompendium
 Version: 0.1.0
 Author: Sanjana Gupta
 Maintainer: Sanjana Gupta <sgupta4@uw.edu>
-Description: Add and say hello
+Description: Add and say hello with appropriate documentation, testing and continuous integration.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
