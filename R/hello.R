@@ -1,44 +1,27 @@
-# Hello, world!
-#
-# This is an example function named 'hello'
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
 
 
-#' Title
+
+
+#' Adds two to any number
 #'
-#' @param name
+#' We _can_ use markdown in roxy documentation.
+#' That is **very** handy. It's easy to indicate `functions()`.
+#' Markdown tables, lists are also possible.
+#'  See more about the markdown markup at the
+#' [Commonmark web site](http://commonmark.org/help).
+#' We can easily add images also, here is an irrelvant Numbat:
+#' ![](numbat.jpg "We can show images")
 #'
-#' @return
+#' @param x an integer or double; any number
+#'
+#' @return a number
 #' @export
 #'
 #' @examples
-hello <- function(name) {
+#' plus_two(1)
+#'
+plus_two <- function(x) {
 
-  return(paste("Hello", name))
+  x + 2
+
 }
-
-
-#' Title
-#'
-#' @param a
-#' @param b
-#'
-#' @return
-#' @export
-#'
-#' @examples
-add <- function(a, b) {
-
-  return(a+b)
-}
-
