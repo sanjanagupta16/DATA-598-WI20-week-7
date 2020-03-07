@@ -11,6 +11,8 @@ The goal of mysimplecompendium is to say hello and add numbers. It also contains
 
 You can install the released version of mysimplecompendium from [CRAN](https://CRAN.R-project.org) with:
 
+```r install.packages("mysimplecompendium") ```
+
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
