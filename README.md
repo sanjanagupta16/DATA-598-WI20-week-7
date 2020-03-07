@@ -2,6 +2,7 @@
 # mysimplecompendium
 
 <!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanjanagupta16/DATA-598-WI20-week-7/tests/master?urlpath=rstudio)
  [![R build status](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/sanjanagupta16/DATA-598-WI20-week-7/actions)
  <!-- badges: end -->
 
